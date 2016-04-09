@@ -13,3 +13,7 @@ enumerate Moxa Nport devices,and read the target device information,Password set
 # Scan verification
 simple.csv is some validation data,from our scanner [icsresearch2.plcscan.org](https://icsresearch2.plcscan.org)
 
+# Usage script
+1、copy moxa-enum.nse to nmap script folder
+
+2、run `nmap -sU --script moxa-enum -p 4800 <target ip>`
