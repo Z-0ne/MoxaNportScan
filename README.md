@@ -6,4 +6,10 @@ enumerate Moxa Nport devices,and read the target device information,Password set
 [ DigitalBond Labs:DBLABS-2016-01](http://www.digitalbond.com/labs/advisories/dblabs-2016-01/)
 
 [ ICS-CERT ALERT:ICS-ALERT-16-099-01](https://ics-cert.us-cert.gov/alerts/ICS-ALERT-16-099-01 )
+# Search Dork
+ ZoomEye:[MoxaHttp] (https://www.zoomeye.org/search?q=MoxaHttp)
+
+ Shodan:[MoxaHttp] (https://www.shodan.io/search?query=MoxaHttp)
+# Scan verification
+simple.csv is some validation data,from our scanner [icsresearch2.plcscan.org](https://icsresearch2.plcscan.org)
 
